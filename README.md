@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZaatarX
+- 👋 Hi, I’m @ZaatarX aka Ricardo Fadlallah
 - 👀 I’m interested in Data Analisys, Python devolpment, and Data Science 
 
 <!---
