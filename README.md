@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZaatarX aka Ricardo Fadlallah
-- 👀 I’m interested in Data Analisys, Python devolpment, and Data Science 
+- 👀 I’m interested in Data Analysis, Python devolpment, and Data Science 
 
 <!---
 ZaatarX/ZaatarX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
